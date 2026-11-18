@@ -59,7 +59,16 @@ The target column is `Class`:
 5. Run the notebook cells in order.
 
 ## Conclusion
-The project demonstrates how Machine Learning algorithms can be used to identify fraudulent credit card transactions. Logistic Regression and Random Forest are compared using multiple evaluation metrics to understand their performance.
+In this project, two Machine Learning algorithms, Logistic Regression and Random Forest, were implemented to detect fraudulent credit card transactions.
+Both models were evaluated using Accuracy, Precision, Recall, and F1 Score.
+The results showed that Random Forest performed better than Logistic Regression.
 
----
+**Model Performance:**
+
+- Logistic Regression F1 Score: 72.41%
+- Random Forest F1 Score: 87.43%
+- 
+Random Forest achieved an accuracy of 99.96%, precision of 94.12%, and recall of 81.63%.
+Therefore, Random Forest was selected as the better-performing model for this project.
+This project demonstrates how Machine Learning can help identify fraudulent credit card transactions.
 **Project Type:** Machine Learning – Binary Classification
